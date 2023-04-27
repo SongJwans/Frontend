@@ -1,0 +1,16 @@
+{
+  "name": "i201814133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exam1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-vue": "^9.11.0"
+  }
+}
